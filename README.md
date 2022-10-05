@@ -1,5 +1,5 @@
 # Cryptocurrencies
-## Project overview
+## Project Overview
 This project aims at creating a cryptocurrency investment portfolio for a bank's customers using an unsupervised machine learning model. 
 It will include what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 This project consists of four technical analysis: 
@@ -7,6 +7,9 @@ This project consists of four technical analysis:
 - Reducing Data Dimensions Using PCA
 - Clustering Cryptocurrencies Using K-means
 - Visualizing Cryptocurrencies Results
+
+### Resources
+Data Source: crypto_data.csv
 
 ## Results
 
